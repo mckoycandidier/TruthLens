@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TruthLens</string>
+    <string name="truth_score_label">Truthfulness &amp; Composure Index</string>
+    <string name="disclaimer_title">Behavioral Stress &amp; Micro-expression Disclaimer</string>
+    <string name="disclaimer_body">TruthLens measures physical stress responses, micro-expressions, facial tension, and cognitive load indicators (saccades, blinking, eyebrow tension, lip compression). These correlate with psychological stress and agitation, NOT absolute truth. Factors such as anxiety, neurodiversity, fatigue, and lighting also affect these signals. Use responsibly as an observational tool only.</string>
+</resources>

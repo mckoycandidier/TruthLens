@@ -1,0 +1,6 @@
+{
+  "name": "TruthLens",
+  "description": "Real-time facial micro-expression and behavioral indicator analysis using CameraX and on-device MediaPipe Face Landmarker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
